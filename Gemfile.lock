@@ -5,6 +5,8 @@ GEM
     daemons (1.1.9)
     fastercsv (1.5.5)
     json (1.7.5)
+    puma (1.6.3)
+      rack (~> 1.2)
     rack (1.4.1)
     rack-protection (1.2.0)
       rack
@@ -23,5 +25,6 @@ DEPENDENCIES
   daemons
   fastercsv
   json
+  puma
   sinatra
   tzinfo

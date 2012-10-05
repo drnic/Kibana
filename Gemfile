@@ -7,3 +7,5 @@ gem 'fastercsv'
 gem 'curb'
 gem 'daemons'
 gem 'tzinfo'
+
+gem 'puma'
